@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+  }
+
+  .titulo-principal{
+    margin-left: 18px;
+  }
+  
+  h1{
+    padding-top: 20px;
+  }
+  
+  #banner{
+    width: 100%;
+  }
+  
+  
+  .main{
+    background: #CCCCCC;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  em strong{
+    color: red;
+  }
+  h3{
+    text-align: center;
+  }
+  
+  #diferenciales-img{
+    width: 60%;
+  }
+  
+  ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 60px;
+  }
